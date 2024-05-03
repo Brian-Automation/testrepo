@@ -9,4 +9,9 @@ test 1 dude
 test 1 dude
 test 1 dude
 If p, then q, p therefore ...
+q!
+
+If -P, then -q
+q
+Therefore P
 
